@@ -1,0 +1,6 @@
+{"customer_id":"1","customer_name":"abc","email_address": "abc@abc","shipping address": "djhck","line":{ "product name":"aaa","purchase_time" :"10","qty":"2","unit_price":"10"}}
+{"customer_id":"1","customer_name":"abc","email_address": "abc@abc","shipping address": "djhck","line":{ "product name":"bbb","purchase_time" :"10","qty":"3","unit_price":"5"}}
+{"customer_id":"3","customer_name":"pqe","email_address": "pqr@pqr","shipping address": "sgasc","line":{ "product name":"ccc","purchase_time" :"11","qty":"4",         "unit_price":"30"}}
+{"customer_id":"4","customer_name":"sja","email_address": "mno@mno","shipping address": "cxjhsbj","line":{ "product name":"ddd","purchase_time" :"11","qty":"2",         "unit_price":"100"}}
+{"customer_id":"4","customer_name":"sjka","email_address": "xyz@xyz","shipping address": "cjhs","line":{ "product name":"aaa","purchase_time" :"11","qty":"4",         "unit_price":"20"}}
+

@@ -1,0 +1,16 @@
+{"customer_id": "1","line":{"product_id":"1","purchase_time":"10","quantity":"3","unit_price":"10"},"shipping_address":"achdsj"}
+{"customer_id": "1","line":{"product_id":"2","purchase_time":"10","quantity":"2","unit_price":"5"},"shipping_address":"achdsj"}
+{"customer_id": "2","line":{"product_id":"3","purchase_time":"10","quantity":"1","unit_price":"20"},"shipping_address":"chhd"}
+{"customer_id": "3","line":{"product_id":"1","purchase_time":"10","quantity":"3","unit_price":"10"},"shipping_address":"csiueiu"}
+{"customer_id": "3","line":{"product_id":"4","purchase_time":"10","quantity":"5","unit_price":"5"},"shipping_address":"csiueiu"}
+{"customer_id": "3","line":{"product_id":"5","purchase_time":"10","quantity":"4","unit_price":"8"},"shipping_address":"csiueiu"}
+{"customer_id": "1","line":{"product_id":"1","purchase_time":"15","quantity":"3","unit_price":"10"},"shipping_address":"achdsj"}
+{"customer_id": "2","line":{"product_id":"1","purchase_time":"15","quantity":"3","unit_price":"10"},"shipping_address":"chhd"}
+{"customer_id": "3","line":{"product_id":"1","purchase_time":"15","quantity":"3","unit_price":"10"},"shipping_address":"csiueiu"}
+{"customer_id": "4","line":{"product_id":"1","purchase_time":"15","quantity":"3","unit_price":"10"},"shipping_address":"xjhx"}
+{"customer_id": "5","line":{"product_id":"1","purchase_time":"15","quantity":"3","unit_price":"10"},"shipping_address":"shzsk"}
+
+
+
+
+
